@@ -4311,3 +4311,5 @@ second_app/node_modules/yauzl/index.js
 second_app/node_modules/yauzl/LICENSE
 second_app/node_modules/yauzl/package.json
 second_app/node_modules/yauzl/README.md
+third_app/.DS_Store
+.DS_Store
